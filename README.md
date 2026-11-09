@@ -4,7 +4,7 @@
 
 ## 1. 下载并校验
 
-用有仓库访问权限的 GitHub 账号打开 [v1.0.0 发布页](https://github.com/superxyleth/nuannuan-guagua/releases/tag/v1.0.0)，在 **Assets** 下下载 `Nuannuan-Guagua-DSH-assets-v1.0.0.zip`。
+打开 [v1.0.0 发布页](https://github.com/superxyleth/nuannuan-guagua/releases/tag/v1.0.0)，在 **Assets** 下下载 `Nuannuan-Guagua-DSH-assets-v1.0.0.zip`。下载无需登录 GitHub。
 
 在 ZIP 所在目录打开 PowerShell，运行下面的命令：
 
